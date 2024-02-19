@@ -4,7 +4,7 @@ Currently, I'm diving deep into the world of Cybersecurity, exploring various to
 
 - 🌱 I'm currently learning about Cybersecurity, so expect to see projects, resources, and notes related to this field.
 - 👀 I'm interested in collaborating on open-source projects related to Java, Spring Boot, Angular, or Cybersecurity. Feel free to reach out if you have any exciting projects or ideas!
-- 📫 You can reach me via [email](boulaghlafatimazahra@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/fatima-zahra-boulaghla).
+- 📫 You can reach me via email :boulaghlafatimazahra@gmail.com or connect with me on LinkedIn www.linkedin.com/in/fatima-zahra-boulaghla.
 - 😄 Pronouns: She/Her
 
 <!---
