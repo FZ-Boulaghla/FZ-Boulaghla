@@ -4,7 +4,7 @@ Currently, I'm diving deep into the world of Cybersecurity, exploring various to
 
 👀 I'm interested in collaborating on open-source projects related to Java, Spring Boot, Angular, Cybersecurity, or Embedded AI. Feel free to reach out if you have any exciting projects or ideas!<br/>
 
-📫 You can reach me via email: boulaghlafatimazahra@gmail.com or connect with me on LinkedIn www.linkedin.com/in/fatima-zahra-boulaghla/ <br/>
+📫 You can reach me via email: boulaghlafatimazahra@gmail.com or connect with me on LinkedIn [www.linkedin.com/in/fatima-zahra-boulaghla](https://www.linkedin.com/in/fatimazahraboulaghla/) / <br/>
 
 
 # 💻 Tech Stack:
